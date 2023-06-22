@@ -1,0 +1,11 @@
+{
+	"uno": false,
+	"nano": false,
+	"mpython": false,
+	"microbit": false,
+	"leonardo": true,
+	"mega2560": true,
+	"beetleProMini": false,
+	"fireBeetleEsp32":false,
+	"include": "DFRobot_Obloq.h"
+}

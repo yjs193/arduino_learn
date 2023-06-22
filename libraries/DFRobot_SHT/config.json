@@ -1,0 +1,12 @@
+{
+	"uno": true,
+	"nano": false,
+	"mpython": false,
+	"microbit": false,
+	"microbitV2": false,
+	"leonardo": false,
+	"mega2560": false,
+	"beetleProMini": false,
+	"fireBeetleEsp32":false,
+	"include": "DFRobot_SHTC3.h"
+}

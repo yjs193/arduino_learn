@@ -1,0 +1,15 @@
+#include "Arduino.h"
+#ifndef Vortex_h
+#define Vortex_h
+
+#define CURRENT_VERSION 0x02
+
+#define EEPROM_VORTEX_OFFSET 0x30
+#define EEPROM_VORTEX_MUSIC_OFFSET 0x40
+#define EEPROM_VORTEX_RGB_OFFSET 0x50
+#define EEPROM_VORTEX_RGB_GRAYERROR_0 0xa0
+#define EEPROM_VORTEX_RGB_GRAYERROR_1 0xb0
+#define EEPROM_VORTEX_RGB_GRAYERROR_2 0xc0
+#define EEPROM_VORTEX_RGB_GRAYERROR_3 0xd0 
+
+#endif

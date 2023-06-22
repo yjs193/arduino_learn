@@ -1,0 +1,14 @@
+{
+	"uno": true,
+	"nano": false,
+	"mpython": false,
+	"microbit": false,
+	"leonardo": false,
+	"mega2560": true,
+	"beetleProMini": false,
+	"fireBeetleEsp32": false,
+	"include": [
+		"DFRobot_AS3935_I2C.h",
+		"Lib_I2C.h"
+	]
+}

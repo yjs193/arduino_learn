@@ -1,0 +1,4 @@
+{
+	"esp8266": true,
+	"include": "DFRobot_Esp8266MQTT.h"
+}

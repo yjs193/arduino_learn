@@ -1,0 +1,11 @@
+{
+	"uno": true,
+	"nano": false,
+	"mpython": false,
+	"microbit": false,
+	"leonardo": false,
+	"mega2560": false,
+	"beetleProMini": false,
+	"fireBeetleEsp32":false,
+	"include": "PID_v1.h"
+}

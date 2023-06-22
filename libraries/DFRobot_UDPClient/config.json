@@ -1,0 +1,13 @@
+{
+	"uno": false,
+	"nano": false,
+	"mpython": true,
+	"telloesp32": true,
+	"microbit": false,
+	"leonardo": false,
+	"mega2560": false,
+	"beetleProMini": false,
+	"fireBeetleEsp32":true,
+	"esp8266":false,
+	"include": "DFRobot_UDPClient.h"
+}

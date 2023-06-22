@@ -1,0 +1,11 @@
+{
+	"uno": true,
+	"nano": true,
+	"mpython": false,
+	"microbit": true,
+	"leonardo": true,
+	"mega2560": true,
+	"beetleProMini": false,
+	"fireBeetleEsp32":false,
+	"include": "DFRobot_EC.h"
+}

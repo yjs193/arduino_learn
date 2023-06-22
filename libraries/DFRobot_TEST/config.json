@@ -1,0 +1,16 @@
+{
+	"uno": false,
+	"nano": false,
+	"mpython": false,
+	"telloesp32": false,
+	"microbit": false,
+	"microbitV2": false,
+	"leonardo": false,
+	"mega2560": false,
+	"beetleProMini": false,
+	"fireBeetleEsp32":false,
+	"fireBeetleEsp32E":false,
+	"esp8266": false,
+	"pico": false,
+	"include": "DFRobot_Test.h"
+}

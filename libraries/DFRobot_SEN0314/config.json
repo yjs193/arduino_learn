@@ -1,0 +1,14 @@
+{
+	"uno": true,
+	"nano": false,
+	"mpython": true,
+	"telloesp32": true,
+	"microbit": true,
+	"microbitV2": true,
+	"leonardo": false,
+	"mega2560": true,
+	"beetleProMini": false,
+	"fireBeetleEsp32":true,
+	"fireBeetleEsp32E":true,
+	"include": ["MuVisionSensor.h", "MuVisionSensor3_AT.h"]
+}

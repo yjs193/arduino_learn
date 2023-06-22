@@ -1,0 +1,11 @@
+{
+	"uno": true,
+	"nano": true,
+	"mpython": false,
+	"microbit": false,
+	"leonardo": false,
+	"mega2560": false,
+	"beetleProMini": false,
+	"fireBeetleEsp32":false,
+	"include": "UNO_Obloq.h"
+}

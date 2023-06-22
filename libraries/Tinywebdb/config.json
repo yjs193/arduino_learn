@@ -1,0 +1,14 @@
+{
+	"uno": false,
+	"nano": false,
+	"mpython": true,
+	"telloesp32": true,
+	"microbit": false,
+	"leonardo": false,
+	"mega2560": false,
+	"beetleProMini": false,
+	"fireBeetleEsp32":true,
+	"fireBeetleEsp32E":true,
+	"esp8266":true,
+	"include": "mPython_tinywebdb.h"
+}

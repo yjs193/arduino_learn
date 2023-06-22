@@ -1,0 +1,11 @@
+{
+	"uno": false,
+	"nano": false,
+	"mpython": false,
+	"microbit": false,
+	"leonardo": false,
+	"mega2560": true,
+	"beetleProMini": false,
+	"fireBeetleEsp32":false,
+	"include": "Arduino_FreeRTOS.h"
+}

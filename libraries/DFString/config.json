@@ -1,0 +1,14 @@
+{
+	"uno": true,
+	"nano": true,
+	"mpython": true,
+	"microbit": true,
+	"microbitV2": true,
+	"leonardo": true,
+	"mega2560": true,
+	"beetleProMini": false,
+	"fireBeetleEsp32":true,
+	"telloesp32":true,
+	"esp8266": true,
+	"include": "DFString.h"
+}
